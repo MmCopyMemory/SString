@@ -8,6 +8,7 @@
 <br><br>
 This is not amazing or mindblowing work.<br>
 It has quite some overhead, which to be honest I dont know if its good compared to f.x. [SkCrypter](https://github.com/skadro-official/skCrypter). <br><br>
+Also not the securest method in existence.
 
 ## Performance
 
